@@ -25,7 +25,6 @@ name = "rustedh0llow"
 version = "0.1.0"
 dependencies = [
  "windows",
- "windows-strings",
 ]
 
 [[package]]
