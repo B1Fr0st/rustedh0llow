@@ -1,7 +1,3 @@
-# About
-
-A process hollowing tool able to self inject any binary.
-
 # Usage
 
 ```rust
